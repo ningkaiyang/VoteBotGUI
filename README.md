@@ -136,5 +136,6 @@ The GUI allows you to launch multiple instances with different configurations if
 
 ## Contributors
 
-*   [Moderatuh](https://github.com/Moderatuh) - Significant refactoring for stealth, efficiency, and maintainability.
-*   Original structure/concept by [pomodori92](https://github.com/pomodori92).
+*   [pomodori92](https://github.com/pomodori92) - Original structure/concept ([pomodori92/voteBot](https://github.com/pomodori92/voteBot)).
+*   [Moderatuh](https://github.com/Moderatuh) - Valuable fixes and updates to all files ([Moderatuh/voteBot](https://github.com/Moderatuh/voteBot)).
+*   [ningkaiyang](https://github.com/ningkaiyang) - Significant refactoring for stealth, efficiency, maintainability, and changing core mechanisms to allow for concurrent running without generating junk files. Python GUI implementation to make concurrent headless terminal runs easily.
