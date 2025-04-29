@@ -92,7 +92,8 @@ VoteBot is a JavaScript-based bot designed for automated voting on [Poll.fm/](ht
 
 ## Graphical User Interface (GUI)
 
-Alternatively to running `node voteBot.js` directly, you can use the Python-based GUI (`voteBot_gui.py`) to manage multiple bot instances simultaneously.\n
+Alternatively to running `node voteBot.js` directly, you can use the Python-based GUI (`voteBot_gui.py`) to manage multiple bot instances simultaneously.
+
 **Prerequisites:**
 *   Python 3 installed.
 *   The `tkinter` library (usually included with standard Python installations).
@@ -137,9 +138,3 @@ The GUI allows you to launch multiple instances with different configurations if
 
 *   [Moderatuh](https://github.com/Moderatuh) - Significant refactoring for stealth, efficiency, and maintainability.
 *   Original structure/concept by [pomodori92](https://github.com/pomodori92).
-
-## Issues and Requests
-
-If you encounter any bugs, please report them by creating a [new issue](https://github.com/pomodori92/voteBot/issues).
-
-Feel free to submit [pull requests](https://github.com/pomodori92/voteBot/pulls). They are highly encouraged!
