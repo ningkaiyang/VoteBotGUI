@@ -1,6 +1,6 @@
 # voteBot
 
-VoteBot is a JavaScript-based bot designed for automated voting on [Poll.fm/](https://poll.fm/). It utilizes Puppeteer with enhancements for stealth and efficiency.
+VoteBot is a JavaScript-based bot designed for automated voting on [Poll.fm/](https://poll.fm/). It utilizes Puppeteer with enhancements for stealth and efficiency. I found this project (originally created by [pomodori92](https://github.com/pomodori92)) when my local news made their high school athlete of the week poll using poll.fm, allowing for infinite votes from our schools (to get ad revenue from students refreshing the page to vote for their teammates). I decided it was sloppily implemented and also just poor design choice (the larger schools/sports just had their athletes win every time) and realized how easy it could be to macro some votes in ;)
 
 ## Project Structure
 
