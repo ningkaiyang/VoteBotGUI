@@ -1,6 +1,3 @@
 @echo off
-FOR /L %%G IN (0,1,1000000) DO (
-  node voteBot.js
-  ECHO %%y
-  timeout 1
-)
+REM The looping and delay logic is now handled inside voteBot.js
+node voteBot.js

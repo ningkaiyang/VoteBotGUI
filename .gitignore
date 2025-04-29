@@ -1,0 +1,21 @@
+# Node dependencies
+node_modules/
+
+# macOS specific
+.DS_Store
+
+# IDE specific
+.idea/
+
+# Log files (if any)
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional lockfiles (if you prefer not to commit them)
+# package-lock.json
+# yarn.lock
+
+# Environment variables file (if you use one)
+.env
